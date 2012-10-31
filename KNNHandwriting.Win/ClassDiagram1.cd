@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KNNHandwriting.Win.Service.DataExtractionService">
+    <Position X="1" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service\DataExtractionService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KNNHandwriting.Win.Service.KNNService">
+    <Position X="4" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAIAAICA=</HashCode>
+      <FileName>Service\KNNService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KNNHandwriting.Win.Model.DigitData">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAQAAAAAAAAAAAAAAABAAAAACAAAAAA=</HashCode>
+      <FileName>Model\DigitData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9.75" />
+</ClassDiagram>
